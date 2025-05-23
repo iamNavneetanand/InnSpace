@@ -1,1 +1,1 @@
-# InnSpace
+# MajorProject
